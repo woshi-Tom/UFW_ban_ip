@@ -1,6 +1,9 @@
 #!/bin/bash
 set -uo pipefail
 
+export LC_ALL=C.UTF-8
+export LANG=C.UTF-8
+
 TEMP_FILE="apnic_delegated_stats.txt"
 RESTRICTED_PORTS_FILE="restricted_ports.txt"
 CHINA_IPS_FILE="china_ips.txt"
