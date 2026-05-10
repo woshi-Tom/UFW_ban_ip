@@ -42,4 +42,4 @@ sudo ./banIP.sh
 
 ## 许可证
 
-MIT License - 详见 `LICENSE` 文件
+GNU General Public License v3 (GPLv3) - 详见 `LICENSE` 文件
